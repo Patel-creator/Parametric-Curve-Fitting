@@ -31,7 +31,8 @@ It searches over the following ranges:
           M:	−0.05 → 0.05
           X:	0 → 100
    
-**Final Results**
+**Final Results:**
+
 θ = 0.5236 rad (≈ 30°)
 M = 0.030
 X = 55.0009
@@ -39,7 +40,9 @@ Mean L1 Distance = 25.31
 Fit Score ≈ 60.28 / 100
 
 Both positive (M = 0.03) and negative (M = −0.05) values gave similar numeric results, but M = +0.03 matched the dataset visually better (slight oscillation growth rather than damping).
+
 **Final Parametric Equation**
+
 \left(
 t*\cos(0.5236)
 - e^{0.030|t|}\cdot\sin(0.3t)\sin(0.5236)
