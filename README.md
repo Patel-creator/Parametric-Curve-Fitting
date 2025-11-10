@@ -34,11 +34,15 @@ It searches over the following ranges:
    
 **Final Results:**
 
-θ = 0.5236 rad (≈ 30°)
-M = 0.030
-X = 55.0009
-Mean L1 Distance = 25.31
-Fit Score ≈ 60.28 / 100
+1. θ = 0.5236 rad (≈ 30°)
+2. M = 0.030
+3. X = 55.0009
+4. Mean L1 Distance = 25.31
+5. Fit Score ≈ 60.28 / 100
+   
+<img width="996" height="701" alt="download" src="https://github.com/user-attachments/assets/0231e5be-53a3-411e-8e80-57ab80e8d960" />
+
+
 
 **Final Parametric Equation**
 
