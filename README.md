@@ -43,11 +43,5 @@ Both positive (M = 0.03) and negative (M = −0.05) values gave similar numeric 
 
 **Final Parametric Equation**
 
-\left(
-t*\cos(0.5236)
-- e^{0.030|t|}\cdot\sin(0.3t)\sin(0.5236)
-+ 55.0009,
-\;
-42 + t*\sin(0.5236)
-+ e^{0.030|t|}\cdot\sin(0.3t)\cos(0.5236)
-\right)
+(tcos(0.5236) − e^(0.030|t|)·sin(0.3t)·sin(0.5236) + 55.0009,
+42 + tsin(0.5236) + e^(0.030|t|)·sin(0.3t)·cos(0.5236))
